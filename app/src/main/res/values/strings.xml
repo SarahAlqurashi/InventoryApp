@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Inventory Application </string>
+
+    <string name="action_insert_product">Insert Product</string>
+
+    <string name="action_delete_all_entries">Delete All Product</string>
+
+    <string name="empty_view_title_text">There Is No Product ...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a  Product</string>
+
+    <string name="editor_activity_title_add_product">Add a Product</string>
+
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_product_successful">Product Saved</string>
+
+    <string name="editor_insert_product_failed">Error with saving product</string>
+
+    <string name="editor_update_product_successful">Product updated</string>
+
+    <string name="editor_update_product_failed">Error with updating product</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="hint_product_name"> Product Name</string>
+
+    <string name="product_price">Price</string>
+
+    <string name="product_quantity">Quantity</string>
+
+    <string name="hint_product_supplier_info">Supplier Information </string>
+
+    <string name="hint_product_supplier_name">Supplier Name</string>
+
+    <string name="hint_product_supplier_phone">Supplier Phone</string>
+
+    <string name="unit_price">$</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_product_successful">Product deleted</string>
+
+    <string name="edit_product_quantity">0</string>
+
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="sale_button">Sale</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="empty_name">Pleas enter valid name </string>
+
+    <string name="empty_price">Pleas enter valid price </string>
+
+    <string name="empty_quantity">Pleas enter valid quantity</string>
+
+    <string name="empty_supplier_name">Pleas enter valid  supplier name </string>
+
+    <string name="empty_supplier_phone">Pleas enter valid  supplier phone </string>
+
+</resources>
+
+
